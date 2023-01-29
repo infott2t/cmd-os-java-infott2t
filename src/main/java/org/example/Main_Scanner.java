@@ -27,8 +27,11 @@ public class Main_Scanner {
             Scanner input = new Scanner(System.in);
             String n = input.next();
             //System.out.println(n);
-            System.out.println("Ok");
-            if(n=="exit") {commandExitString="exit";}
+
+            if(n.equals("exit")) {commandExitString="exit";}else{
+                System.out.println("Ok");
+            }
+
         }while(commandExitString!="exit");
         System.out.println("Thank you, for using. Thank you.");
 
