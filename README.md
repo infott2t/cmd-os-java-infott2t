@@ -6,10 +6,12 @@ Hello~. Hope good developing. How about this. Thank you.
 <p>
 How to use, Need, make jar file. Searching~. I have no time. Sorry~.</p>
 <p>
-If have cmd, 
-
-java -jar Main_Scanner.jar
+If have cmd, Hint(May be Need searching.)
 </p>
+<ul>
+  <li>gradlew build</li>
+  <li>java -jar Main_Scanner.jar</li>
+</ul>
 <p>
 And Let's go there~. Church. Jesus Christ. Calling. I like this writing.
 </p>
