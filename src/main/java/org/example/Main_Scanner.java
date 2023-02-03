@@ -15,10 +15,10 @@ public class Main_Scanner {
 
     public Main_Scanner() {
         // TODO Auto-generated constructor stub
-        System.out.println("CMD-OS-JAVA-infott2t (github.com, @infott2t)");
+        System.out.println("CMD-OS-JAVA-infott2t (github.com, @infott2t; https://github.com/infott2t/cmd-os-java-infott2t)");
         System.out.println("Use Java(https://oracle.com)");
 
-
+        System.out.println("Let's safely use smartphones,etc. Make good traditioning to self.");
         System.out.println("Enjoy. 'exit' String input, outbreak.");
         System.out.println("Let's go there. Church. Jesus Christ. Calling. Social resting place. I like this writing.");
         System.out.println("Thank you, and using. Thank you. Hope good developping. Yours. ... Have a good day~.");
