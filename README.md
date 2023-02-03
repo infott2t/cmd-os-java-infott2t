@@ -4,9 +4,9 @@
 Hello~. Hope good developing. How about this. Thank you.
 </p>
 <p>
-How to use, Need, make jar file. Searching~. I have no time. Sorry~.</p>
+How to use, Need, make jar file.</p>
 <p>
-If have cmd, Hint(May be Need searching.)
+If have cmd, Hint... (May be Need searching.)
 </p>
 <ul>
   <li>gradlew build</li>
