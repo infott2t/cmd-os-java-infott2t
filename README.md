@@ -4,8 +4,8 @@
 Hello~. Hope good developing. How about this. Thank you.
 </p>
 <p>
-How to use,
-
+How to use, Need, make jar file. Searching~. I have no time. Sorry~.</p>
+<p>
 If have cmd, 
 
 java -jar Main_Scanner.jar
