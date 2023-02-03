@@ -23,7 +23,7 @@ public class Main_Scanner {
         System.out.println("Let's go there. Church. Jesus Christ. Calling. Social resting place. I like this writing.");
         System.out.println("Thank you, and using. Thank you. Hope good developping. yours. ...");
         do {
-            System.out.print("?");
+            System.out.print(">");
             Scanner input = new Scanner(System.in);
             String n = input.next();
             //System.out.println(n);
