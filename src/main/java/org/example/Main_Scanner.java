@@ -19,7 +19,7 @@ public class Main_Scanner {
         System.out.println("Use Java(https://oracle.com)");
 
         System.out.println("Let's safely use smartphones,etc. Make good traditioning to self.");
-        System.out.println("Enjoy. 'exit' String input, outbreak.");
+        System.out.println("Enjoy. 'help', Open command. and 'exit' String input, outbreak.");
         System.out.println("Let's go there. Church. Jesus Christ. Calling. Social resting place. I like this writing.");
         System.out.println("Thank you, and using. Thank you. Hope good developping. Yours. ... Have a good day~.");
         do {
@@ -28,7 +28,17 @@ public class Main_Scanner {
             String n = input.next();
             //System.out.println(n);
 
-            if(n.equals("exit")) {commandExitString="exit";}else{
+            if(n.equals("exit")) {commandExitString="exit";}
+            else if(n.equals("help")){
+                System.out.println("Command...");
+                System.out.println("make, [filename]");
+                System.out.println("diarly, [YYYY-MM-DD]");
+            }else if(n.equals("make")){
+                System.out.println("Make file ... Input file name.");
+                 String n2 = input.next();
+                 // Make~. Funny time. Hope good developing...
+                 System.out.println(n2);
+            }else{
                 System.out.println("Ok");
             }
 
