@@ -21,7 +21,7 @@ public class Main_Scanner {
 
         System.out.println("Enjoy. 'exit' String input, outbreak.");
         System.out.println("Let's go there. Church. Jesus Christ. Calling. Social resting place. I like this writing.");
-        System.out.println("Thank you, and using. Thank you. Hope good developping. yours. ...");
+        System.out.println("Thank you, and using. Thank you. Hope good developping. Yours. ... Have a good day~.");
         do {
             System.out.print(">");
             Scanner input = new Scanner(System.in);
