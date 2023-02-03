@@ -6,6 +6,7 @@ Hello~. Hope good developing. How about this. Thank you.
 <p>
 How to use, Need, make jar file.</p>
 <p>
+<p> Today, 2023-02-03 Fri. Not yet Complete, Customizing. How about this.</p>
 If have cmd, Hint... (May be Need searching.)
 </p>
 <ul>
