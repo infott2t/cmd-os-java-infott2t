@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="021724af-d751-4ac5-a88c-740400f23555" name="Changes" comment="Hello~. CMD Design change, '?' -&gt; '&gt;'">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="021724af-d751-4ac5-a88c-740400f23555" name="Changes" comment="Comment change~. Yours~. Have a good day~.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +71,8 @@
       <option name="presentableId" value="Default" />
       <updated>1674986343793</updated>
       <workItem from="1674986347138" duration="2289000" />
-      <workItem from="1675407376397" duration="368000" />
+      <workItem from="1675407376397" duration="1619000" />
+      <workItem from="1675409355081" duration="61000" />
     </task>
     <task id="LOCAL-00001" summary="Hello~. Hope good developing~. How about this. Thank you.">
       <created>1674986856468</created>
@@ -93,7 +95,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675407431607</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Comment change~. Yours~. Have a good day~.">
+      <created>1675408083892</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675408083892</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Comment change~. Yours~. Have a good day~.">
+      <created>1675408099514</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675408099514</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +130,7 @@
     <MESSAGE value="Hello~. Hope good developing~. How about this. Thank you." />
     <MESSAGE value="Hello~. Bug check... Done, Today I. Hope good developing~. How about this. Thank you." />
     <MESSAGE value="Hello~. CMD Design change, '?' -&gt; '&gt;'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello~. CMD Design change, '?' -&gt; '&gt;'" />
+    <MESSAGE value="Comment change~. Yours~. Have a good day~." />
+    <option name="LAST_COMMIT_MESSAGE" value="Comment change~. Yours~. Have a good day~." />
   </component>
 </project>
