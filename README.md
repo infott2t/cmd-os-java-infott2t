@@ -14,7 +14,7 @@ If have cmd, Hint... (May be Need searching.)
   <li>java -jar Main_Scanner.jar</li>
 </ul>
 <p>
-And Let's go there~. Church. Jesus Christ. Calling.  I like this writing.
+And Let's go there~. Church. Jesus Christ. Calling. Social resting place~. I like this writing.
 </p>
 <p>
 Have a good day~.
